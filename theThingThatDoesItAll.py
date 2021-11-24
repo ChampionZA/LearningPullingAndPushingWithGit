@@ -1,1 +1,1 @@
-print("What Is the UP")
+print("What Is UP")
