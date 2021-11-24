@@ -1,1 +1,2 @@
-print("What Is UP")
+userInput = input("Please enter what you would like to be printed: ")
+print(userInput)
